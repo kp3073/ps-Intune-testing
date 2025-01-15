@@ -1,8 +1,5 @@
 # Variables
-$AppID = "abdcc16f-2ff2-49b4-beb2-b7bdb521bcfb"
-$tenantId = "a221016b-cc73-49c9-a858-7fca1f010971"
-$AppSecret = "Z7j8Q~66-.lp7LkQcCuMNMuE0vn0n3TEIh0mZbUC"
-$groupTag = "SJC"
+
 
 # Install the Get-WindowsAutopilotInfo script
 Install-Script -Name Get-WindowsAutopilotInfo -Force
